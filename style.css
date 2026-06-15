@@ -1,0 +1,14 @@
+body {
+    background-color: black; 
+    text-align: center; 
+    color: azure;
+}
+
+ul {
+    padding: 10px;
+    list-style-position: inside;
+}
+
+li {
+    margin: 10px;
+}
