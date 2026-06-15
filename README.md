@@ -30,4 +30,4 @@ This is my first web development project. I created this portfolio website to pr
 
 Ahmad Muddassir
 
-BCA Student
+BCA Student | Web Developer
