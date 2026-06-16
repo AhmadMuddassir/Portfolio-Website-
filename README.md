@@ -20,7 +20,6 @@ This is my first web development project. I created this portfolio website to pr
 * Projects Section
 * About Section
 * Hover effect
-* 
 
 ## Upcoming Features
 
