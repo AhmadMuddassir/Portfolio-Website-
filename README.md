@@ -17,14 +17,18 @@ This is my first web development project. I created this portfolio website to pr
 * Personal Introduction
 * Skills Section
 * Contact Button
+* Projects Section
+* About Section
+* Hover effect
+* 
 
 ## Upcoming Features
 
-* About Me Section
-* Projects Section
 * Better Styling
 * Responsive Design
-* GitHub & LinkedIn Links
+* Footer 
+* GitHub Link
+* LinkedIn Link
 
 ## Author
 
