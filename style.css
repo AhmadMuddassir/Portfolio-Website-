@@ -12,3 +12,25 @@ ul {
 li {
     margin: 10px;
 }
+
+nav a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: rgb(158, 169, 173);
+    padding: 20px;
+    text-align: right;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 25px;
+}
+
+nav a:hover {
+    color: cyan;
+}
