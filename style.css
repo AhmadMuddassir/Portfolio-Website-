@@ -2,6 +2,7 @@ body {
     background-color: black; 
     text-align: center; 
     color: azure;
+    font-family: poppins;
 }
 
 ul {
@@ -18,7 +19,7 @@ nav a {
 }
 
 nav {
-    background-color: rgb(158, 169, 173);
+    background-color: rgb(85, 87, 88);
     padding: 20px;
     text-align: right;
 
@@ -33,4 +34,23 @@ nav a {
 
 nav a:hover {
     color: cyan;
+}
+
+#github, #linkedin {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+
+#github:hover,
+#linkedin:hover {
+    color:aqua;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+#portfolio {
+    text-align: left;
 }
