@@ -46,4 +46,4 @@ This is my first web development project. I created this portfolio website to pr
 
 Ahmad Muddassir
 
-BCA Student | Full Stack Web Developer in Progress
+BCA Student | Full Stack Web Developer 
