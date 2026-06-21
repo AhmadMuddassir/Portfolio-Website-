@@ -14,15 +14,15 @@ This is my first web development project. I created this portfolio website to pr
 * Git
 * Github
 
-## Current Features
+## Features
 
-* Responsive Navigation Bar (Work in progess)
+* Responsive Navigation Bar
 * Personal Introduction
 * Skills Section
-* Contact Button
 * Projects Section
-* About Me Section
-* Hover effect
+* Dedicated About Page
+* Contact Button
+* Hover Effects
 * Project Cards
 * Github Profile link
 * LinkedIn Profile link
@@ -35,15 +35,13 @@ This is my first web development project. I created this portfolio website to pr
 
 ## Upcoming Features
 
-* Social Media Icons
 * Favicon
 * Better UI Design
 * Responsive Layout
-* JavaScript Features
-* Additional Projects
+* Javascript Features 
 
 ## Author
 
 Ahmad Muddassir
 
-BCA Student | Full Stack Web Developer 
+BCA Student | Learning Full Stack Web Developer 

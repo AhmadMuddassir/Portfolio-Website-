@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: black; 
     text-align: center; 
@@ -21,8 +27,9 @@ nav a {
 nav {
     background-color: rgb(33, 5, 0);
     padding: 20px;
-    text-align: right;
+    font-size: 20px;
     display: flex;
+    justify-content: space-between;
 }
 
 nav a {
@@ -51,13 +58,6 @@ footer {
     margin-top: 150px;
 }
 
-nav {
-    text-align: left;
-    font-size: 20px;
-    justify-content: space-between;
-    display: flex;
-}
-
 .project-card {
     border: 6px solid white;
     padding: 15px;
@@ -79,4 +79,22 @@ nav {
 
 .tech-stack {
     font-size: 12px;
+}
+
+.read-more {
+    text-decoration: none;
+    color: white;
+}
+
+.read-more:hover{
+    color: rgb(223, 152, 90)
+}
+
+.contact-me {
+    text-decoration: none;
+    color: white;
+}
+
+.contact-me:hover {
+    color: rgb(223, 152, 90);
 }
